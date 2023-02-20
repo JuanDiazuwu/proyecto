@@ -12,9 +12,9 @@ Python 3
 
 ## Author
 
-* **Juan Díaz** 
-	Personal [Github](https://github.com/Fuan200/) 
-	School [Github](https://github.com/JuanDiazuwu)
+**Juan Díaz** 
+* Personal [Github](https://github.com/Fuan200/) 
+* School [Github](https://github.com/JuanDiazuwu)
 	
 ## Description
 
